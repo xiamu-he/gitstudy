@@ -12,6 +12,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @RequestMapping(value = "/test")
     public Object test(){
-        return "不是吧";
+        return "不是";
     }
 }
