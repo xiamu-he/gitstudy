@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_001" />
+        <module name="springboot_007_transaction" />
+        <module name="springboot_004_custom_configuration" />
+        <module name="springboot_005_mybatis" />
+        <module name="springboot_008_restful" />
+        <module name="springboot_003_muti_enviroment" />
+        <module name="springboot_006_mybatis2" />
+        <module name="springboot_010_encoding" />
+        <module name="springboot_009_interceptor" />
+        <module name="springboot_002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot_001" target="11" />
+      <module name="springboot_002" target="11" />
+      <module name="springboot_003_muti_enviroment" target="11" />
+      <module name="springboot_004_custom_configuration" target="11" />
+      <module name="springboot_005_mybatis" target="11" />
+      <module name="springboot_006_mybatis2" target="11" />
+      <module name="springboot_007_transaction" target="11" />
+      <module name="springboot_008_restful" target="11" />
+      <module name="springboot_009_interceptor" target="11" />
+      <module name="springboot_010_encoding" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot_001" options="-parameters" />
+      <module name="springboot_002" options="-parameters" />
+      <module name="springboot_003_muti_enviroment" options="-parameters" />
+      <module name="springboot_004_custom_configuration" options="-parameters" />
+      <module name="springboot_005_mybatis" options="-parameters" />
+      <module name="springboot_006_mybatis2" options="-parameters" />
+      <module name="springboot_007_transaction" options="-parameters" />
+      <module name="springboot_008_restful" options="-parameters" />
+      <module name="springboot_009_interceptor" options="-parameters" />
+      <module name="springboot_010_encoding" options="-parameters" />
+    </option>
+  </component>
+</project>

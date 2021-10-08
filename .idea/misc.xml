@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_001/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_002/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_003_muti_enviroment/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_004_custom_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_005_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_006_mybatis2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_007_transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_008_restful/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_009_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_010_encoding/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
