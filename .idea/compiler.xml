@@ -7,15 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_001" />
-        <module name="springboot_007_transaction" />
+        <module name="springboot_013_logback" />
+        <module name="springboot_002" />
         <module name="springboot_004_custom_configuration" />
         <module name="springboot_005_mybatis" />
-        <module name="springboot_008_restful" />
-        <module name="springboot_003_muti_enviroment" />
-        <module name="springboot_006_mybatis2" />
-        <module name="springboot_010_encoding" />
         <module name="springboot_009_interceptor" />
-        <module name="springboot_002" />
+        <module name="springboot_008_restful" />
+        <module name="springboot_007_transaction" />
+        <module name="springboot_006_mybatis2" />
+        <module name="springboot_011_war" />
+        <module name="springboot_012_jar" />
+        <module name="springboot_010_encoding" />
+        <module name="springboot_003_muti_enviroment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +32,9 @@
       <module name="springboot_008_restful" target="11" />
       <module name="springboot_009_interceptor" target="11" />
       <module name="springboot_010_encoding" target="11" />
+      <module name="springboot_011_war" target="11" />
+      <module name="springboot_012_jar" target="11" />
+      <module name="springboot_013_logback" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -43,6 +49,9 @@
       <module name="springboot_008_restful" options="-parameters" />
       <module name="springboot_009_interceptor" options="-parameters" />
       <module name="springboot_010_encoding" options="-parameters" />
+      <module name="springboot_011_war" options="-parameters" />
+      <module name="springboot_012_jar" options="-parameters" />
+      <module name="springboot_013_logback" options="-parameters" />
     </option>
   </component>
 </project>

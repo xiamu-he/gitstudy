@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_008_restful/springboot_008_restful.iml" filepath="$PROJECT_DIR$/springboot_008_restful/springboot_008_restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_009_interceptor/springboot_009_interceptor.iml" filepath="$PROJECT_DIR$/springboot_009_interceptor/springboot_009_interceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_010_encoding/springboot_010_encoding.iml" filepath="$PROJECT_DIR$/springboot_010_encoding/springboot_010_encoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_011_war/springboot_011_war.iml" filepath="$PROJECT_DIR$/springboot_011_war/springboot_011_war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_012_jar/springboot_012_jar.iml" filepath="$PROJECT_DIR$/springboot_012_jar/springboot_012_jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_013_logback/springboot_013_logback.iml" filepath="$PROJECT_DIR$/springboot_013_logback/springboot_013_logback.iml" />
     </modules>
   </component>
 </project>

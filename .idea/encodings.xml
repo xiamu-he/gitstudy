@@ -11,5 +11,8 @@
     <file url="file://$PROJECT_DIR$/springboot_008_restful/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_009_interceptor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_010_encoding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_011_war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_012_jar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_013_logback/src/main/java" charset="UTF-8" />
   </component>
 </project>
